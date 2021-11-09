@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/bisnisdotcomm/static/css/main.921261b6.chunk.css",
+    "main.js": "/bisnisdotcomm/static/js/main.5ffabd06.chunk.js",
+    "main.js.map": "/bisnisdotcomm/static/js/main.5ffabd06.chunk.js.map",
+    "runtime-main.js": "/bisnisdotcomm/static/js/runtime-main.bd5a38b7.js",
+    "runtime-main.js.map": "/bisnisdotcomm/static/js/runtime-main.bd5a38b7.js.map",
+    "static/js/2.0530c5c6.chunk.js": "/bisnisdotcomm/static/js/2.0530c5c6.chunk.js",
+    "static/js/2.0530c5c6.chunk.js.map": "/bisnisdotcomm/static/js/2.0530c5c6.chunk.js.map",
+    "index.html": "/bisnisdotcomm/index.html",
+    "static/css/main.921261b6.chunk.css.map": "/bisnisdotcomm/static/css/main.921261b6.chunk.css.map",
+    "static/js/2.0530c5c6.chunk.js.LICENSE.txt": "/bisnisdotcomm/static/js/2.0530c5c6.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/bisnisdotcomm/static/media/card_bg2.8f2b347e.png",
+    "static/media/news_pict1.ec4fb159.png": "/bisnisdotcomm/static/media/news_pict1.ec4fb159.png",
+    "static/media/news_pict2.97dd7fb4.png": "/bisnisdotcomm/static/media/news_pict2.97dd7fb4.png",
+    "static/media/news_pict3.0231b8a6.png": "/bisnisdotcomm/static/media/news_pict3.0231b8a6.png",
+    "static/media/person1.ad03077b.png": "/bisnisdotcomm/static/media/person1.ad03077b.png",
+    "static/media/person2.b30a3dea.png": "/bisnisdotcomm/static/media/person2.b30a3dea.png",
+    "static/media/person3.740a91fc.png": "/bisnisdotcomm/static/media/person3.740a91fc.png",
+    "static/media/person4.b363a2ed.png": "/bisnisdotcomm/static/media/person4.b363a2ed.png",
+    "static/media/presiden_pict.24b6e14c.png": "/bisnisdotcomm/static/media/presiden_pict.24b6e14c.png",
+    "static/media/sponsor1.b9dcf081.png": "/bisnisdotcomm/static/media/sponsor1.b9dcf081.png",
+    "static/media/video_pict1.f58e3417.png": "/bisnisdotcomm/static/media/video_pict1.f58e3417.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd5a38b7.js",
+    "static/js/2.0530c5c6.chunk.js",
+    "static/css/main.921261b6.chunk.css",
+    "static/js/main.5ffabd06.chunk.js"
+  ]
+}
