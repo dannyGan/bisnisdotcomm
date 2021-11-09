@@ -1,0 +1,11 @@
+.navbar {
+    position: absolute;
+    width: 100%;
+    padding: 15px 30px;
+}
+.logo-right{
+    float: right;
+}
+.logo-left{
+    float: left;
+}

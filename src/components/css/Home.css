@@ -1,0 +1,134 @@
+.content{
+    background-image: url('../img/bg_all.png');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    padding-top: 15vh;
+    background-color: #F7F7F7;
+}
+.text-area p{
+    margin-bottom: 3rem;
+}
+.text-area .p1{
+    font-size: 6rem;
+}
+.text-area .p2{
+    font-size: 1rem;
+}
+.video-area,
+.card-ig-area,
+.presiden-area{
+    margin-bottom: 1rem;
+}
+.video-area img{
+    width: 100%;
+}
+.card-ig-area .card{
+    width: 100%;
+    height: 600px;
+    color: white;
+    border-radius: 8px !important;
+    margin-bottom: 15px;
+}
+.card-ig-area .person-img{
+    width: 100%;
+}
+.card img.ig-icon{
+    width: 9rem;
+    margin: 20px auto 10px auto;
+}
+.card img.live-icon{
+    width: 4rem;
+    margin: 5px auto 20px auto;
+}
+.card img.ig-ic{
+    width: 1.5rem;
+    margin: 0 10px 0 0 ;
+}
+.presiden-area{
+    position: relative;
+}
+.presiden-area img{
+    width:100%;
+}
+.presiden-area p{
+    position: absolute;
+    color: white;
+    margin: auto;
+}
+.presiden-area p.p1{
+    top: 40%;
+}
+.presiden-area p.p2{
+    top: 50%;
+    font-size:2.5rem;
+}
+.card-1{
+    background-image: url('../img/card_bg1.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card-2{
+    background-image: url('../img/card_bg2.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.news-area .card{
+    height: 375px;
+    border-radius: 10px;
+}
+.news-area .card img{
+    width: 100%;
+}
+.news-area .card .text-date{
+    color: #979797;
+    font-size: 0.7rem;
+}
+.news-area .card .text-title{
+    font-size: 1rem;
+}
+.news-area .card .text-body{
+    font-size: 0.8rem;
+}
+.sponsor-area{
+    margin-top: 40px;
+}
+.sponsor-area .sponsor-row{
+    margin: 0 15px;
+}
+@media(max-width:1278px){
+    .news-area .card{
+        height: 450px;
+    }
+}
+@media(max-width:768px){
+    .text-area .p1{
+        font-size: 5rem;
+    }
+    .presiden-area p.p1{
+        top: 30%;
+        font-size:1rem;
+    }
+    .presiden-area p.p2{
+        top: 45%;
+        font-size:2rem;
+    }
+    .news-area .card{
+        height: 425px;
+    }
+}
+@media(max-width:500px){
+    .text-area .p1{
+        font-size: 3rem;
+    }
+    .presiden-area p.p2{
+        font-size:1.75rem;
+    }
+    .news-area .card{
+        height: 420px;
+    }
+}
